@@ -18,6 +18,10 @@ Na graduação, desenvolvo projetos de estudo para praticar programação, anál
 
 Classificação de cancelamento em dados Telco de exemplo, com Python, Pandas e scikit-learn. No conjunto de teste, a regressão logística obteve acurácia de **80,55%** e F1 de **60,40%** para churn. O repositório documenta o pipeline e as limitações.
 
+### [Contoso Retail | SQL Server Sales Analysis](https://github.com/LuanGabriel12/contoso-retail-sql-analysis)
+
+Análise comercial com SQL Server e a base demonstrativa ContosoRetailDW. As dez consultas T-SQL usam junções, agregações, filtros e subconsultas básicas para explorar faturamento, produtos, clientes, canais de venda e devoluções. O repositório documenta os resultados verificados.
+
 ### [Automação de relatório de vendas](https://github.com/LuanGabriel12/automacao-relatorio-vendas)
 
 Projeto de estudo com Python e Pandas para consolidar arquivos CSV fictícios, identificar inconsistências e gerar tabelas e gráficos. No exemplo documentado, foram identificadas **36 vendas válidas e 6 inconsistências**.
