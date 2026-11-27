@@ -38,7 +38,7 @@ Laboratório offline (`48.842` registros, Censo 1994, CC BY 4.0) comparando `4` 
 ## Projetos complementares
 
 - **[Sales Automation Engine](https://github.com/LuanGabriel12/automacao-relatorio-vendas):** pipeline Python/Pandas com CSVs BR, `Decimal` e rollback (`42` linhas fictícias -> `36` válidas, `6` inconsistências, `120` un., `R$ 65.068,00`), `11` reconciliações e `46` testes Pytest relatados. *Sem alegação de horas economizadas.*
-- **[Planejamento Pedagógico Web](https://github.com/LuanGabriel12/planejamento-pedagogico-web)** ([demo pública V1](https://planejamento-pedagogico-web.pages.dev/)): demonstração educacional em React e TypeScript, com perfis simulados e persistência local. *A versão pública é demonstrativa e não deve ser usada com dados escolares reais.*
+- **[Planejamento Pedagógico Web](https://github.com/LuanGabriel12/planejamento-pedagogico-web)** ([demo pública V1](https://planejamento-pedagogico-web.pages.dev/)): código V2 em React e TypeScript, com perfis simulados, regras de fluxo, persistência local e 37 testes. *A demonstração online permanece na V1; não use dados escolares reais.*
 
 > *Projetos educacionais com bases públicas ou fictícias. As contagens de testes referem-se às execuções locais documentadas; a reprodução de dados e resultados depende das fontes e condições descritas em cada repositório.*
 
